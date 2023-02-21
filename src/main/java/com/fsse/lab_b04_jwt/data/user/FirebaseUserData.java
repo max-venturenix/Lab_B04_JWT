@@ -1,4 +1,4 @@
-package com.fsse.lab_b04_jwt.data;
+package com.fsse.lab_b04_jwt.data.user;
 
 import org.springframework.security.oauth2.server.resource.authentication.JwtAuthenticationToken;
 

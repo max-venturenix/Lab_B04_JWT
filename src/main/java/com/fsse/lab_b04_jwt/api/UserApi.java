@@ -1,6 +1,6 @@
 package com.fsse.lab_b04_jwt.api;
 
-import com.fsse.lab_b04_jwt.data.FirebaseUserData;
+import com.fsse.lab_b04_jwt.data.user.FirebaseUserData;
 import com.fsse.lab_b04_jwt.util.JwtUtil;
 import org.springframework.security.oauth2.server.resource.authentication.JwtAuthenticationToken;
 import org.springframework.web.bind.annotation.GetMapping;
